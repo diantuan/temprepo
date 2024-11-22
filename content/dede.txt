@@ -1,0 +1,12 @@
+dede ba u
+
+This is a sample text file to test the readStream functionality.
+It contains multiple lines of text, with various words and punctuation.
+
+Line 1: Hello, world!
+Line 2: Welcome to testing the readStream.
+Line 3: Let's see if this works correctly.
+Line 4: Streams can be efficient for large files.
+Line 5: Read operations allow you to handle big data incrementally.
+
+End of the file. Make sure to check if the stream reaches here.

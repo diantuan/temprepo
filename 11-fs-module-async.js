@@ -16,6 +16,8 @@ readFile('./content/first.txt','utf8' , (err, result)=>{
       return
     }
     const second = result;
+
+    //ps: this doesnt work without a callback
     writeFile('./content/result-async.txt' , `here is the result: ${first}, ${second}`, (err,result)=>{
       if(err){
         

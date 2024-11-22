@@ -18,3 +18,9 @@ const server = http.createServer((req, res)=>{
 })
 
 server.listen(5000);
+
+//callback when the server is ready
+
+// server.listen(5000, ()=>{
+
+// })
